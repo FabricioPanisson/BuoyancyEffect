@@ -34,4 +34,7 @@ Demonstrar, de forma clara e funcional, o uso de física 2D na Unity, incluindo 
 
 ---
 
-👨‍💻 Desenvolvido por Fabricio
+ALUNOS:
+Fabrício Vecchi Panisson - 1134808
+Jean Lucas De Cesare - 1134871
+Enzo Schultz - 1135046
